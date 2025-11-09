@@ -19,7 +19,7 @@ It allows users to upload multiple files or photos, then bundles them into a sin
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YADAV/File-zipper-Bot.git
+git clone https://github.com/MrTusarRX/File-zipper-Bot.git
 cd File-zipper-Bot
 ```
 
