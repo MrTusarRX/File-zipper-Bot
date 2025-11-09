@@ -3,7 +3,7 @@ import zipfile
 import os
 import time
 
-API_KEY = "YOUR BOT TOKEN ENTER HERE"
+API_KEY = "YOUR TELEGRAM BOT TOKEN ENTER HERE"
 
 bot = telebot.TeleBot(API_KEY)
 
