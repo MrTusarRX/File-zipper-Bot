@@ -118,9 +118,9 @@ File-zipper-Bot/
 ## 👑 Credits
 
 **Created, Designed, and Documented by:**  
-### 🧑‍💻 YADAV  
-Telegram: [@YADAV](https://t.me/MrTusarRXx)  
-GitHub: [https://github.com/YADAV](https://github.com/MrTusarRX)
+### 🧑‍💻 MrTusarRX  
+Telegram: [@MrTusarRX](https://t.me/MrTusarRXx)  
+GitHub: [https://github.com/MrTusarRX](https://github.com/MrTusarRX)
 
 Special thanks to **MrTusarRX** for the original inspiration and idea.
 
